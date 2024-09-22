@@ -38,8 +38,8 @@ Hanako: A New Life is an educational game about Braille Code. In this game, you 
 
   <thead>
     <tr>
-      <th width="500px" align="center"><a href="https://github.com/Tippenn/ProjectStir-2_Public">LandBreaker</th>
-      <th width="500px" align="center"><a href="https://github.com/Tippenn/Hanako_A_New_Life">The FateBringer</th>
+      <th width="500px" align="center"><a href="https://github.com/Tippenn/LandBreaker">LandBreaker</th>
+      <th width="500px" align="center"><a href="https://github.com/Tippenn/TheFateBringer">The FateBringer</th>
     </tr>
   </thead>
   <tbody>
