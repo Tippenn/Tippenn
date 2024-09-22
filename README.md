@@ -35,6 +35,37 @@ Hanako: A New Life is an educational game about Braille Code. In this game, you 
   
 
   </tbody>
+
+  <thead>
+    <tr>
+      <th width="500px" align="center"><a href="https://github.com/Tippenn/ProjectStir-2_Public">LandBreaker</th>
+      <th width="500px" align="center"><a href="https://github.com/Tippenn/Hanako_A_New_Life">The FateBringer</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr width="500px" align="center">
+  <td>
+
+![GifMaker_20240922220845692](https://github.com/user-attachments/assets/368f40be-a94a-4f50-bce8-44f473185365)
+
+  </td>
+  <td>
+
+![GifMaker_20240922214056423](https://github.com/user-attachments/assets/c6937317-087e-447e-8739-5451dec3de78)
+
+  </td>
+  </tr>
+  <tr width="500px">
+  <td valign="text-top">
+This is my first 3D attempt in game programming where i make an FPS games inspired by some FPS games that i have played in the past
+  </td>
+  <td valign="text-top">
+The FateBringer is a puzzle 2D turn based strategy game. It was parts of team competing in the IGI Competition. Here, I work as the game programmer on this three man team. I’m in charge of all programming stuff like enemy ai, game manager, UI, turn-base, animation, etc.
+  </td>
+  </tr>
+  
+
+  </tbody>
 </table>
 <!-- ============================================= -->
 
