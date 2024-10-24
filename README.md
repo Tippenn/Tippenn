@@ -8,7 +8,7 @@ Hi! I'm a Game Developer Specializing as a game programmer using Unity. I always
   <thead>
     <tr>
       <th width="500px" align="center"><a href="https://github.com/Tippenn/ProjectStir-2_Public">Project Stir 2</th>
-      <th width="500px" align="center"><a href="https://github.com/Tippenn/Hanako_A_New_Life">The FateBringer</th>
+      <th width="500px" align="center"><a href="https://github.com/Tippenn/TheFateBringer">The FateBringer</th>
     </tr>
   </thead>
   <tbody>
@@ -40,7 +40,7 @@ The FateBringer is a puzzle 2D turn based strategy game. It was parts of team co
   <thead>
     <tr>
       <th width="500px" align="center"><a href="https://github.com/Tippenn/LandBreaker">LandBreaker</th>
-      <th width="500px" align="center"><a href="https://github.com/Tippenn/TheFateBringer">Hanako A New Life</th>
+      <th width="500px" align="center"><a href="https://github.com/Tippenn/Hanako_A_New_Life">Hanako A New Life</th>
     </tr>
   </thead>
   <tbody>
