@@ -15,7 +15,7 @@ Hi! I'm a Game Developer Specializing as a game programmer using Unity. I always
   <tr width="500px" align="center">
   <td>
 
-<img src="https://github.com/ydunsscotus/TileCavern/assets/113657705/ad8e859f-b602-48e6-bf3a-5716f38e6686" width="450" alt="Description of the GIF">
+<img src="https://github.com/ydunsscotus/TileCavern/assets/113657705/ad8e859f-b602-48e6-bf3a-5716f38e6686" width="450px" alt="Description of the GIF">
 
   </td>
   <td>
@@ -68,38 +68,3 @@ Hanako: A New Life is an educational game about Braille Code. In this game, you 
 
   </tbody>
 </table>
-<!-- ============================================= -->
-
-<!-- ============================================= -->
-<h2>My Tools</h2>
-<table>
-  <thead>
-    <tr>
-      <th width="500px" align="center">Websites I Often Visits</th>
-      <th width="500px" align="center">Tools I Use For Game Development</th>
-    </tr>
-  </thead>
-  <tbody>
-  <tr width="500px" align="left">
-  <td>
-
-  - Freesound
-  - Itch.io
-  - Pixabay
-  - Unity Asset Store
-  - OpenGameArt
-  
-  </td>
-  <td>
-
-  - Unity
-  - Canva
-  - Figma
-  - Visual Studio 2022
-  - Visual Studio Code
-
-  </td>
-  </tr>
-  </tbody>
-</table>
-<!-- ============================================= -->
