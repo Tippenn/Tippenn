@@ -12,31 +12,25 @@ Hi! I'm a Game Developer Specializing as a game programmer using Unity. I always
     </tr>
   </thead>
   <tbody>
-  <tr width="450px" align="center">
-  <td>
-
+    <tr width="450px" align="center">
+      <td>
 <img src="https://github.com/ydunsscotus/TileCavern/assets/113657705/ad8e859f-b602-48e6-bf3a-5716f38e6686" width="400px" alt="Description of the GIF">
-
-  </td>
-  <td>
-
+      </td>
+      <td>
+        
 ![GifMaker_20240922214056423](https://github.com/user-attachments/assets/c6937317-087e-447e-8739-5451dec3de78)
-
-
-  </td>
-  </tr>
-  <tr width="450px">
-  <td valign="text-top">
-Project Stir 2 is a meticulously crafted driving simulation application designed to assess driving skills through a game-centric approach. My contributions include serving as the level programming designer, where I prioritized in coding that is used in the stage. This project was completed in less than two days for an event by BINUS University's Game Application Technology department.
-  </td>
-  <td valign="text-top">
-The FateBringer is a puzzle 2D turn based strategy game. It was parts of team competing in the IGI Competition. Here, I work as the game programmer on this three man team. I’m in charge of all programming stuff like enemy ai, game manager, UI, turn-base, animation, etc.
-  </td>
-  </tr>
-  
-
+      </td>
+    </tr>
+    <tr width="450px">
+      <td valign="text-top">
+  Project Stir 2 is a meticulously crafted driving simulation application designed to assess driving skills through a game-centric approach. My contributions include serving as the level programming designer, where I prioritized in coding that is used in the stage. This project was completed in less than two days for an event by BINUS University's Game Application Technology department.
+      </td>
+      <td valign="text-top">
+  The FateBringer is a puzzle 2D turn based strategy game. It was parts of team competing in the IGI Competition. Here, I work as the game programmer on this three man team. I’m in charge of all programming stuff like enemy ai, game manager, UI, turn-base, animation, etc.
+      </td>
+    </tr>
   </tbody>
-
+        
   <thead>
     <tr>
       <th width="450px" align="center"><a href="https://github.com/Tippenn/LandBreaker">LandBreaker</th>
@@ -44,27 +38,23 @@ The FateBringer is a puzzle 2D turn based strategy game. It was parts of team co
     </tr>
   </thead>
   <tbody>
-  <tr width="450px" align="center">
-  <td>
+    <tr width="450px" align="center">
+      <td>
 
 ![GifMaker_20240922220845692](https://github.com/user-attachments/assets/368f40be-a94a-4f50-bce8-44f473185365)
-
-  </td>
-  <td>
+      </td>
+      <td>
 
 <img src="https://github.com/ydunsscotus/ProjectStir-2_Public/assets/160445941/6cec2d0e-0e9a-42f6-9bb0-dcd7b726f294" width="400px" alt="Description of the GIF">
-
-  </td>
-  </tr>
-  <tr width="450px">
-  <td valign="text-top">
+      </td>
+    </tr>
+    <tr width="450px">
+      <td valign="text-top">
 This is my first 3D attempt in game programming where i make an FPS games inspired by some FPS games that i have played in the past
-  </td>
-  <td valign="text-top">
+      </td>
+      <td valign="text-top">
 Hanako: A New Life is an educational game about Braille Code. In this game, you will learn how to translate Alphabets to Braille Code. Complete the main story or play endless mode.
-  </td>
-  </tr>
-  
-
+      </td>
+    </tr>
   </tbody>
 </table>
