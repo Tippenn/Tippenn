@@ -8,7 +8,7 @@ Hi! I'm a Game Developer Specializing as a game programmer using Unity. I always
   <thead>
     <tr>
       <th width="50%" align="center"><a href="vuint.itch.io/arva-and-the-barren-land">Arva and the Barren Land</th>
-      <th width="50%" align="center"><a href="https://github.com/Tippenn/TheFateBringer">Out Of Taste</th>
+      <th width="50%" align="center"><a href="vuint.itch.io/gimersia">Out Of Taste</th>
     </tr>
   </thead>
   <tbody>
