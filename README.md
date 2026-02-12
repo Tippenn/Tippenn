@@ -27,6 +27,10 @@ Hi! I'm a Game Developer Specializing as a game programmer using Unity. I always
     A terraforming city-building game where players restore a devastated landscape suffering from drought and resource scarcity. Led all programming efforts within a 3-person team, architecting the entire simulation framework from the ground up.
   </p>
 
+<p>
+    Served as the sole programmer within a 3-person team, responsible for designing and implementing the complete gameplay and system architecture.
+  </p>
+
   <ul>
     <li>Designed and implemented a modular grid-based building placement system.</li>
     <li>Built an event-driven building simulation architecture to eliminate unnecessary per-frame polling.</li>
