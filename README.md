@@ -28,7 +28,7 @@ Hi! I'm a Game Developer Specializing as a game programmer using Unity. I always
   </p>
 
 <p>
-    Served as the sole programmer within a 3-person team, responsible for designing and implementing the complete gameplay and system architecture.
+    Served as the sole programmer and contributing in game design within a 3-person team, responsible for implementing the complete gameplay and system architecture while giving feedback to the design of some building.
   </p>
 
   <ul>
@@ -46,7 +46,7 @@ Hi! I'm a Game Developer Specializing as a game programmer using Unity. I always
   </p>
 
   <p>
-    Served as the sole programmer within a 3-person team, responsible for designing and implementing the complete gameplay and system architecture.
+    Served as the sole programmer and the lead designer within a 3-person team, responsible for designing and implementing the complete gameplay and system architecture.
   </p>
 
   <ul>
